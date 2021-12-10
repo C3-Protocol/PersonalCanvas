@@ -22,3 +22,6 @@ dfx config --help
 * dfx canister --netwotk create --all
 * dfx build --network ic
 * dfx deploy --network ic 
+
+* Mainnet weblink
+https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/#/all
